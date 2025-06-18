@@ -1,4 +1,4 @@
-# sfguide-getting-started-with-automl-openfe-and-autogluon
+# Getting Started with AutoML OpenFE and AutoGluon
 
 ## Overview
 This example uses a feature engineering package (OpenFE) to create features (column interactions, column transformations) from a Snowflake table.
